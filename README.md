@@ -5,7 +5,7 @@
 # Installation of Ubuntu-18.04
   [Just copy and paste it on termux or any terminal ]
   
-  • Step 1 = 'pkg i wget -y && wget https://raw.githubusercontent.com/Unos-Company/Ubuntu-20-Android/main/ub20.sh && bash ub18.sh
+  • Step 1 = 'pkg i wget -y && wget https://raw.githubusercontent.com/Unos-Company/Ubuntu-18-Android/main/ub18.sh && bash ub18.sh
 
   • Step 2 =  To start Ubuntu type 'unos-ubuntu-18.04'
 
